@@ -1,0 +1,40 @@
+Gabriela_Pinheiro
+snake-aula/live
+
+git init
+git add .
+git status
+git commit -m "criar background" | (04:00)video
+
+git add .
+git commit -m "criar cobrinha"  |  (04:44)video
+
+git add .
+git commit -m "definir movimentos da cobrinha"  | (19:29)
+
+git add .
+git commit -m "definir direcoes e impedir que a cobrinha suma"  | (35:03)
+
+git add .
+git commit -m "criar comidinha"  | (41:33)
+
+git add .
+git commit -m "definir a aleatoriedade da frutinha e tamnaho da cobrinha"  | (47:29)
+
+git add .
+git commit -m "definir fim do jogo"  | (53:46)
+
+git add .
+git commit -m "adicionar estilização ao body"  | (57:33)
+
+
+
+//Duvidas ao término
+Pergunta: let box: é o tamanho que a snake pode percorrer
+Resposta: o let box é o tamanho do pixel dentro do canvas, 32 de tamanho nos 4 lados (cada quadrado dentro do canvas teria esse tamanho)
+
+Pergunta: em quais browsers suporta o canvas desse jogo
+Resposta: creio que atualmente a maioria dos browsers tenham suporte, não tem certeza com o opera e safari (não testou), nos outros testado e ok
+
+GitHub Link:
+https://github.com/gabriela-pinheiro/snake-the-game

@@ -1,0 +1,21 @@
+body {
+    height: 90vh; /*v - viewport |modificado de 95 para 90 - melhor alinhamento visual*/
+    width: 90;
+    display: flex;
+    justify-content: center; /*alinha horizontalmente no meio*/
+    align-items: center; /*alinha verticalmente no meio */
+    flex-direction: column; /*deixar elementos do body um abaixo do outro */
+    background-size: auto;
+    /* background-image: url(img/snake-cartoon.png); */
+    /* background-color: rgb(43, 47, 7); */
+    background-color: black;
+}
+
+h1 {
+    color: rgb(44, 139, 44);
+    background-color: transparent;
+}
+
+canvas {
+    border: 2px solid blue;
+}
